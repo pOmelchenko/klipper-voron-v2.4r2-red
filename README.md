@@ -1,6 +1,6 @@
 # Configuration Overview (Voron 2.4r — Manta M8P + SB2040)
 
-Concise reference for where configs live, what hardware/flows they target, and how to deploy/check them. See `CHANGELOG.md` for a dated change history. Русская версия: `docs/README.ru.md`.
+Concise reference for where configs live, what hardware/flows they target, and how to deploy/check them. See `CHANGELOG.md` for a dated change history. Russian version: `docs/README.ru.md`.
 
 ## Paths
 - Primary: `~/klipper_config`
