@@ -1,5 +1,9 @@
 # Changelog
 
+## 2025-12-01
+- CANCEL_PRINT now skips SDCARD_RESET_FILE while a virtual SD print is still active and surfaces a console notice instead.
+- Probe re-tuned; updated `z_offset` from -0.760 to -0.960 in the saved config block.
+
 ## 2025-11-28
 - Docs split into EN/RU with CB2 hardware noted.
 - Moonraker hardened: channel set to stable, trusted_clients narrowed to 192.168.1.0/24, CORS trimmed.
